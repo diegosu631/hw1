@@ -1,0 +1,18 @@
+
+
+body {
+  font-family: "helvetica","arial", sans-serif;
+  font-size: 14px;
+}
+
+h1 {font-size: 3em; font-weight: bold;}
+
+h2  {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  border-bottom: solid 3px gray;
+}
+
+body {
+  line-height: 2;
+}
